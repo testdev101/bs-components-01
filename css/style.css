@@ -1,0 +1,18 @@
+.heading {
+	background-color: #FF6F91;
+	padding: 10px 0;
+	text-align: center;
+	font-size: 1.5rem;
+	color: white;
+}
+
+.alert-custom {
+	font-weight: 500;
+    font-size: 20px;
+    color: #fb5252;
+    background-color: #ddd;
+    border: 2px solid green;
+}
+.carousel-item img {
+	height: 100vh;
+}
